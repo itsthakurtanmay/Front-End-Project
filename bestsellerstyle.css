@@ -1,0 +1,15 @@
+.border_green{
+    background-color: #1e3932;
+    height: 15px;
+    width: 100vw;
+}
+
+.navbar{
+    height: 60px;
+    width: 100vw;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+    align-items: center;
+}
